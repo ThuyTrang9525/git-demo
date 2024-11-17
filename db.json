@@ -7,7 +7,12 @@
     "comments": [
       { "id": "1", "text": "a comment about post 1", "postId": "1" },
       { "id": "2", "text": "another comment about post 1", "postId": "1" },
-      { "id": "3", "text": "doan xau nhat hanh tinh", "postId": "1" }
+      { "id": "3", "text": "doan xau nhat hanh tinh", "postId": "1" },
+      { "id": "4", "text": "doan xau nhat hanh tinh", "postId": "2" },
+      { "id": "5", "text": "doan xau nhat hanh tinh", "postId": "3" },
+      { "id": "6", "text": "doan xau nhat hanh tinh", "postId": "4" },
+      { "id": "7", "text": "doan xau nhat hanh tinh", "postId": "5" },
+      { "id": "8", "text": "doan xau nhat hanh tinh", "postId": "6" }
     ],
     "profile": {
       "name": "typicode"
